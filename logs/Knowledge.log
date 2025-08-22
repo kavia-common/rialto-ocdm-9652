@@ -1452,3 +1452,206 @@ TimeoutError
 2025-08-22 06:31:27,662 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-08-22 06:31:27,667 - Knowledge - INFO - Saving knowledge to Redis...
 2025-08-22 06:31:27,710 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-08-22 14:28:47,147 - Knowledge - INFO - Redis support added with prefix knowledge:b589510:
+2025-08-22 14:28:47,384 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-22 14:28:47,391 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,392 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,392 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/ActiveSessions.h
+2025-08-22 14:28:47,402 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,402 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,402 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/OpenCDMSessionMock.h
+2025-08-22 14:28:47,414 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,414 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,415 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/OpenCDMSystem.h
+2025-08-22 14:28:47,425 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,425 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,425 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/CMakeLists.txt
+2025-08-22 14:28:47,436 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,436 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,437 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/ActiveSessions.cpp
+2025-08-22 14:28:47,447 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,447 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,447 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/third-party/source/MediaKeysCapabilitiesFactory.cpp
+2025-08-22 14:28:47,460 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,460 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,460 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/OpenCdmSessionTests.cpp
+2025-08-22 14:28:47,477 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,477 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,477 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/OcdmSessionsCallbacksMock.h
+2025-08-22 14:28:47,493 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,493 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,494 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/OpenCdmTests.cpp
+2025-08-22 14:28:47,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,507 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,507 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/third-party/source/OcdmSessionsCallbacks.cpp
+2025-08-22 14:28:47,518 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,518 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,518 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/MediaKeysCapabilitiesMock.h
+2025-08-22 14:28:47,530 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,530 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,530 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/CMakeLists.txt
+2025-08-22 14:28:47,541 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,541 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,541 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/MediaKeysCapabilitiesBackendTests.cpp
+2025-08-22 14:28:47,551 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,551 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,552 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/cmake/googletest.cmake
+2025-08-22 14:28:47,567 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,567 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,568 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/OpenCDMSessionPrivate.h
+2025-08-22 14:28:47,579 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,579 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,579 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/CMakeLists.txt
+2025-08-22 14:28:47,591 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,592 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,592 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/ICdmBackend.h
+2025-08-22 14:28:47,602 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,603 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,603 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/IMessageDispatcher.h
+2025-08-22 14:28:47,614 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,614 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,614 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/MessageDispatcherMock.h
+2025-08-22 14:28:47,625 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,626 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,626 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/MediaKeysMock.h
+2025-08-22 14:28:47,636 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,636 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,636 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/CdmBackendMock.h
+2025-08-22 14:28:47,649 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,649 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,649 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/MessageDispatcherTests.cpp
+2025-08-22 14:28:47,660 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,660 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,660 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/TERMS.md
+2025-08-22 14:28:47,669 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,669 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,669 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/open_cdm_adapter.cpp
+2025-08-22 14:28:47,682 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,684 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,684 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/open_cdm.cpp
+2025-08-22 14:28:47,701 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,701 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,701 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/scripts/valgrind/process_valgrind_results.py
+2025-08-22 14:28:47,715 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,716 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,716 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/open_cdm_ext.cpp
+2025-08-22 14:28:47,731 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,731 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,731 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/CdmBackendTests.cpp
+2025-08-22 14:28:47,746 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,746 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,746 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/OpenCDMSessionPrivate.cpp
+2025-08-22 14:28:47,758 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,758 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,759 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/CMakeLists.txt
+2025-08-22 14:28:47,770 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,770 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,771 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/third-party/source/MediaKeysFactory.cpp
+2025-08-22 14:28:47,780 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,780 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,780 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/LoggerTests.cpp
+2025-08-22 14:28:47,792 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,792 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,792 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/RialtoGStreamerEMEProtectionMetadata.h
+2025-08-22 14:28:47,802 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,803 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,803 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/CdmBackend.cpp
+2025-08-22 14:28:47,815 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,816 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,816 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/scripts/cpplint/cpplint.py
+2025-08-22 14:28:47,837 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,837 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,837 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/MessageDispatcher.cpp
+2025-08-22 14:28:47,850 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,851 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,851 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/ActiveSessionsTests.cpp
+2025-08-22 14:28:47,864 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,864 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,864 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/OpenCdmSystemTests.cpp
+2025-08-22 14:28:47,877 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,877 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,877 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/MediaKeysClientMock.h
+2025-08-22 14:28:47,890 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,890 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,890 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/MessageDispatcherClientMock.h
+2025-08-22 14:28:47,904 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,904 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,904 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/MessageDispatcher.h
+2025-08-22 14:28:47,916 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,917 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,917 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/RialtoGStreamerEMEProtectionMetadata.cpp
+2025-08-22 14:28:47,927 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,927 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,927 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/OpenCDMSystemMock.h
+2025-08-22 14:28:47,939 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,939 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,939 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/CdmBackend.h
+2025-08-22 14:28:47,950 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,951 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,951 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/Logger.cpp
+2025-08-22 14:28:47,966 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,966 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,966 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/OpenCdmExtTests.cpp
+2025-08-22 14:28:47,981 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,981 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,981 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/ut/OpenCdmAdapterTests.cpp
+2025-08-22 14:28:47,992 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:47,992 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:47,992 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/README.md
+2025-08-22 14:28:48,003 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,003 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,004 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/scripts/clang-format/process_clang-format_errors.py
+2025-08-22 14:28:48,015 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,016 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,016 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/cppcheck_suppressions.xml
+2025-08-22 14:28:48,023 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,023 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,023 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/Logger.h
+2025-08-22 14:28:48,034 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,034 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,034 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/OpenCDMSystemPrivate.h
+2025-08-22 14:28:48,044 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,044 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,045 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/third-party/source/ControlFactory.cpp
+2025-08-22 14:28:48,055 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,055 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,055 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/docs/index.html
+2025-08-22 14:28:48,067 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,068 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,068 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/MediaKeysCapabilitiesBackend.cpp
+2025-08-22 14:28:48,078 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,078 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,079 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/source/OpenCDMSystemPrivate.cpp
+2025-08-22 14:28:48,089 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,089 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,089 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/cmake/FindRialto.cmake
+2025-08-22 14:28:48,100 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,100 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,101 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/MediaKeysCapabilitiesBackend.h
+2025-08-22 14:28:48,112 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,112 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,112 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/CHANGELOG.md
+2025-08-22 14:28:48,121 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,121 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/CONTRIBUTING.md
+2025-08-22 14:28:48,130 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,130 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,130 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/library/include/OpenCDMSession.h
+2025-08-22 14:28:48,144 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,144 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,144 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/third-party/CMakeLists.txt
+2025-08-22 14:28:48,154 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,155 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,155 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/tests/mocks/ControlMock.h
+2025-08-22 14:28:48,165 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-ocdm-9652.git:kavia-6.0.0-rc1
+2025-08-22 14:28:48,165 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7eff3c376e10>
+2025-08-22 14:28:48,165 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/9652/b589510/rialto-ocdm-9652/build_ut.py
+2025-08-22 14:28:48,172 - Knowledge - INFO - load persisted knowledge: end
+2025-08-22 14:28:48,172 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-22 14:28:48,173 - Knowledge - INFO - load persisted docinfo: end
+2025-08-22 14:28:48,206 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-22 14:28:48,206 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-22 14:28:48,208 - Knowledge - INFO - Knowledge creation complete
+2025-08-22 14:28:48,210 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-08-22 14:28:48,214 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-22 14:28:48,249 - Knowledge - INFO - Knowledge saved to Redis successfully
